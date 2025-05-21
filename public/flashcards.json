@@ -1,0 +1,18 @@
+[
+  { "polish": "zwierze domowe", "english": "das Haustier" },
+  { "polish": "ryba", "english": "der Fisch" },
+  { "polish": "chomik", "english": "der Hamster" },
+  { "polish": "pies", "english": "der Hund" },
+  { "polish": "kanarek", "english": "der Kanarienvogel" },
+  { "polish": "krolik", "english": "das Kaninchen" },
+  { "polish": "kot", "english": "die Katze" },
+  { "polish": "krowa", "english": "die Kuh" },
+  { "polish": "mysz", "english": "die Maus" },
+  { "polish": "swinka morska", "english": "das Meerschweinchen" },
+  { "polish": "papuga", "english": "der Papagei" },
+  { "polish": "kon", "english": "das Pferd" },
+  { "polish": "zolw", "english": "die Schildkrote" },
+  { "polish": "waz", "english": "die Schlange" },
+  { "polish": "papuzka falista", "english": "der Wellensittich" },
+  { "polish": "szczenie", "english": "der Welpe" }
+]
